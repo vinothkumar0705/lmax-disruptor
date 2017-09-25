@@ -1,0 +1,8 @@
+com\vino\lmax\WriteEvent.class
+com\vino\lmax\WriteEventProducer.class
+com\vino\lmax\WriteEventFactory.class
+com\vino\lmax\WriteExceptionHandler.class
+com\vino\lmax\App.class
+com\vino\lmax\LMAXWriter.class
+com\vino\lmax\WriteEventHandler.class
+com\vino\lmax\WriteEventProducer$1.class
